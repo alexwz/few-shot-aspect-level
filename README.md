@@ -1,4 +1,4 @@
-# This repository contains resources for the paper "Few-Shot Methods for Aspect-Level Sentiment Analysis"
+# Resources for the paper "Few-Shot Methods for Aspect-Level Sentiment Analysis"
 
 Files:
  - few_shot_aspect_level.ipynb - source code to run all the experiments described in the paper
